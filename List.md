@@ -1,4 +1,4 @@
-## Just a site list that contains dangerust websites
+## Just a site list that contains dangerous websites
 
 goggle.com
 
@@ -105,24 +105,3 @@ www.portablefreeware.com
 listoffreeware.com
 
 www.download3k.com/
-
-| Website name | Reason         | Right-aligned |
-| :---         |     :---:      |          ---: |
-| goggle.com   | Malware     vv | git status    |
-| git diff     | git diff       | git diff      |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
