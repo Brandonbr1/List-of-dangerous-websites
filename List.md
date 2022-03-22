@@ -1,10 +1,4 @@
-## Just a site list that contains dangerous websites
-
-goggle.com
-
-paypal-net.com
-
-paypal-mobiletopup.net
+# Just a site list that contains dangerous websites
 
 paypalupdate.biz
 
@@ -20,9 +14,6 @@ yotube.com/
 
 Homicide.igarape.org.br
 
-download.cnet.com/
-
-softonic.com
 
 apkmodget.com/
 
@@ -105,3 +96,11 @@ portablefreeware.com
 listoffreeware.com
 
 download3k.com
+
+| Domain       | Rating           | Reason          |
+| -------------| ---------------- | ----------------|
+| goggle.com   | 3                | Malware         |
+| paypal-net.com| 5               | Fake paypal web |
+| paypal-mobiletopup.net| 5       | Fake Paypal web|
+| download.cnet.com/|             | Installers tent to have malware|
+|  softonic.com     |       5     |   Illeagal somtimes reposting free stuff when in actuallity it is paid and Malware|
