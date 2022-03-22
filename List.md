@@ -24,15 +24,15 @@ download.cnet.com/
 
 softonic.com
 
-apkmodget.com/games/minecraft-apk
+apkmodget.com/
 
-en.uoldown.com/android/minecraft-apk
+en.uoldown.com/
 
 adf.ly
 
 www.wizcase.com
 
-kingmodapk.com/minecraft-apk-5
+kingmodapk.com/
 
 17ebook.com
 
@@ -100,8 +100,8 @@ filehippo.com
 
 filehippo.co
 
-www.portablefreeware.com
+portablefreeware.com
 
 listoffreeware.com
 
-www.download3k.com/
+download3k.com
