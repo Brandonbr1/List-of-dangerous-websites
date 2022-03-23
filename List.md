@@ -1,7 +1,5 @@
 # Just a site list that contains dangerous websites
 
-Homicide.igarape.org.br
-
 apkmodget.com/
 
 www.wizcase.com
@@ -19,8 +17,6 @@ clicnews.com
 dfwdiesel.net
 
 divineenterprises.net
-
-fantasticfilms.ru
 
 gardensrestaurantandcatering.com
 
@@ -40,13 +36,9 @@ mactep.org
 
 magic4you.nu
 
-marbling.pe.kr
-
 nacjalneg.info
 
 pronline.ru
-
-purplehoodie.com
 
 qsng.cn
 
@@ -61,11 +53,6 @@ teamclouds.com
 texaswhitetailfever.com
 
 xnescat.info
-
-
-listoffreeware.com
-
-download3k.com
 
 | Domain       | Rating           | Reason          |
 | -------------| ---------------- | ----------------|
@@ -89,6 +76,10 @@ download3k.com
 | en.uoldown.com|           4.5  |   repost stuff that is free and installers are likely virus   |
 | wadefamilytree.org| 5           | virus |
 | portablefreeware.com | 2        | uses it own download may hav virus |
-
+| www.download3k.com   | 2        | a site that reposts applications may hav virus|
+| Homicide.igarape.org.br | 5     | virus
+| marbling.pe.kr | 5 | virus |
+| purplehoodie.com | 5 | Virus |
+| fantasticfilms.ru | 5 | Virus |
 
 [a mirror of the site list can also be found here](https://brandonbr1.github.io/list.html)
