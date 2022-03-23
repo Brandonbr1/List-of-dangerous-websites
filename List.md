@@ -87,8 +87,8 @@ download3k.com
 | paypalupdate.biz         5          |   Just a Paypal Website                    |
 | yotube.com     |       5      |   A typo squatter Website                    |
 | pypl.com.tw    |       5      |   A fake Paypal website                     |
-| processing-paypal.net    5    |  A fake Paypal Website                      |
-| verification-paypal.org  5    | A fake paypal website                       |
-| account-paypal.biz      5     | A fake website |
-| yt118.com               5     |       virus |
-| en.uoldown.com           4.5  |   repost stuff that is free and installers are likely virus   |
+| processing-paypal.net |   5    |  A fake Paypal Website                      |
+| verification-paypal.org|  5    | A fake paypal website                       |
+| account-paypal.biz|      5     | A fake website |
+| yt118.com |              5     |       virus |
+| en.uoldown.com|           4.5  |   repost stuff that is free and installers are likely virus   |
