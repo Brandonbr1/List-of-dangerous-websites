@@ -60,13 +60,8 @@ teamclouds.com
 
 texaswhitetailfever.com
 
-wadefamilytree.org
-
 xnescat.info
 
-yt118.com
-
-portablefreeware.com
 
 listoffreeware.com
 
@@ -84,7 +79,7 @@ download3k.com
 | 17ebook.com     |     4       |      Typosquatter Website            |
 | adf.ly          |     1       |      clicking on it's links could give you malware and it's notifications spammy|
 | stock888.cn          |      5       |    Just a  Website|
-| paypalupdate.biz         5          |   Just a Paypal Website                    |
+| paypalupdate.biz |        5          |   Just a Paypal Website                    |
 | yotube.com     |       5      |   A typo squatter Website                    |
 | pypl.com.tw    |       5      |   A fake Paypal website                     |
 | processing-paypal.net |   5    |  A fake Paypal Website                      |
@@ -92,3 +87,8 @@ download3k.com
 | account-paypal.biz|      5     | A fake website |
 | yt118.com |              5     |       virus |
 | en.uoldown.com|           4.5  |   repost stuff that is free and installers are likely virus   |
+| wadefamilytree.org| 5           | virus |
+| portablefreeware.com | 2        | uses it own download may hav virus |
+
+
+[a mirror of the site list can also be found here](https://brandonbr1.github.io/list.html)
